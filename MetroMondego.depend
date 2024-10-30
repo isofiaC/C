@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1686503227 source:c:\users\inês carvalho\desktop\6º semestre\programação\trabalho prático\metromondego\linhas.c
+	"linhas.h"
+
+1686502366 c:\users\inês carvalho\desktop\6º semestre\programação\trabalho prático\metromondego\linhas.h
+	"paragens.h"
+
+1686502379 source:c:\users\inês carvalho\desktop\6º semestre\programação\trabalho prático\metromondego\main.c
+	"paragens.h"
+	"linhas.h"
+
+1686481872 c:\users\inês carvalho\desktop\6º semestre\programação\trabalho prático\metromondego\paragens.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1686441506 source:c:\users\inês carvalho\desktop\6º semestre\programação\trabalho prático\metromondego\paragens.c
+	"paragens.h"
+
